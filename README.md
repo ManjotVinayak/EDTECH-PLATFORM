@@ -13,7 +13,7 @@ To run this web on your computer, follow these steps:
 
 Clone the repository to your local machine.
 
-git clone https://github.com/AyushR97j/StudyNotion-EdTech.git
+git clone (https://github.com/ManjotVinayak/EDTECH-PLATFORM)
 Install the required packages. 
 
 cd StudyNotion-EdTech
